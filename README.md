@@ -27,3 +27,5 @@ The admin can
 6. open [ambulance](http://localhost/ambulance)
   > http://localhost/ambulance   remember the url path is as of the directory path. 
   
+### Account login ###
+  Use the user name and passwords from the table in database to login to accounts or create users from admin. 
