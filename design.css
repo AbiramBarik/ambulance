@@ -1,0 +1,47 @@
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    width: 89.5%;
+    height: 500px;
+    padding: 50px;
+    margin: 30px;
+    border-radius: 50px;
+    border: red;
+    box-shadow:0px 0px 20px 10px white;
+  }
+  table{
+      width: 100%;
+      height: 100%;
+      text-align: center;
+  }
+  button{
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+  }
+  button:hover{
+      background-color: white;
+      box-shadow: -5px 5px 3px 2px red;
+      color: red;
+      padding: 15px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+  
